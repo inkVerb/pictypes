@@ -20,6 +20,8 @@ Colors actually mix to create other colors in real life:
 
 ![Black](img/PKW-K.png)
 
+![Gray](img/KW-A.png)
+
 ![White](img/PKW-W.png)
 
 ![RGB White](img/RGB-0W.png)
