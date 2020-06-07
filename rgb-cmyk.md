@@ -1,8 +1,10 @@
 # JPEG & PNG
 
-![Diagrams](img/diagrams.png)
+Colors actually mix to create other colors in real life:
 
 ![Real lights](img/RGB_illumination.jpg)
+
+![Diagrams](img/diagrams.png)
 
 ![Red](img/P-RGB-R.png)
 
