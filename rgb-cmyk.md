@@ -1,4 +1,4 @@
-# JPEG & PNG
+# RGB & CMYK
 
 Colors actually mix to create other colors in real life:
 
