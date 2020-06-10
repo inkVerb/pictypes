@@ -3,17 +3,17 @@
   - Photos
   - Too big at high quality compression
   - One layer
-  - (no transparency)
+  - No transparency
 - `.png`:
   - Digital artwork
   - Small at high quality compression
   - Allows multiple layers
-  - (allows transparency)
+  - Allows transparency
 - `.gif`:
   - Only the colors it uses
   - Very small for few colors
   - Can "loop" multiple layers, like a small video
-  - (no transparency)
+  - No transparency
 
 ## JPG 10: *11.3kB (800x600)*
 
