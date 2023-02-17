@@ -13,7 +13,7 @@
   - Only the colors it uses
   - Very small for few colors
   - Can "loop" multiple layers, like a small video
-  - No transparency
+  - Allows transparency
 
 ## JPG 10: *11.3kB (800x600)*
 
